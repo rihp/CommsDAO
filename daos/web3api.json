@@ -1,0 +1,52 @@
+{
+    "name" : "Web3API",
+    
+    "description" : "Integration standard for web3",
+    
+    "address" : {
+      "mainnet": "",
+      "xdai": ""
+    },
+    
+    "homepage" : "https://web3api.dev",
+    
+    "email" : "web3api@dorg.tech",
+    
+    "social" : {
+      "Twitter" : "https://twitter.com/Web3API",
+      "LinkedIn" : "",
+      "Medium" : "https://medium.com/dorg-tech",
+    },
+    
+    "spaces" : {
+      "Keybase" : "https://keybase.io/team/web3api",
+      "Github" : "https://github.com/Web3-API",
+      "Airtable" : "" ,
+      "Zoho" : "",
+    },
+    
+    "legal" : {
+      "name" : "",
+      "address" : {
+        "street": "",
+        "city" : "",
+        "region" : "",
+        "postal" : "",
+        "country" : ""
+      },
+      "business-id" : "",
+      "tax-id" :""
+    },
+    
+    "dependencies" : {
+        // Aragon ?
+      "@daostack/arc" : "",
+    },
+    
+    "config" : {
+      "rep-rate" : 1.00, // Rep received per USD earned
+      "interest-rate" : null, // Non applicabe 
+      "admin-thresh" : null, // Rep needed for administrator permissions to spaces
+      "deactivation-thresh" : null, // Days of inactivity to trigger deactivation
+    },
+  }
