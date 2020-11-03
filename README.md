@@ -1,5 +1,5 @@
 # CommsDAO
-Decentralised DAO aggregator for curated and highly productive communication 
+Decentralised DAO aggregator for curated and highly productive DAO-to-DAO communication 
 
 # How to contribute
 To add a DAO to the current list, fork this repo and submit a pull request, adding the DAO to the `/daos` folder, following the template below.
